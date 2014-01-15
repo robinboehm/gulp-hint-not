@@ -1,6 +1,6 @@
 {
     "name": "gulp-hint-not",
-    "version": "0.0.1",
+    "version": "0.0.3",
     "description": "Gulp plugin for removing jshint comment directives from source code.",
     "main": "index.js",
     "scripts": {
